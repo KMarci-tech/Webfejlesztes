@@ -1,0 +1,11 @@
+com\example\webfejlesztes_crud\repository\PetRepository.class
+com\example\webfejlesztes_crud\model\Owner.class
+com\example\webfejlesztes_crud\repository\OwnerRepository.class
+com\example\webfejlesztes_crud\service\OwnerServiceImpl.class
+com\example\webfejlesztes_crud\model\Pet.class
+com\example\webfejlesztes_crud\controller\PetController.class
+com\example\webfejlesztes_crud\Main.class
+com\example\webfejlesztes_crud\service\OwnerService.class
+com\example\webfejlesztes_crud\service\PetService.class
+com\example\webfejlesztes_crud\controller\OwnerController.class
+com\example\webfejlesztes_crud\service\PetServiceImpl.class
